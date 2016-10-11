@@ -1,7 +1,7 @@
 Netfabb Basic Download
 ======================
 
-Unoffial Netfabb Basic and/or Netfabb Free download archive.
+Unofficial Netfabb Basic and/or Netfabb Free download archive.
 
 > Netfabb Basic is a free (as in free beer) software for 3D Printing
 > and the STL file format. Numerous tools allow all steps of the fabrication

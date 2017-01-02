@@ -10,8 +10,12 @@ Unofficial Netfabb Basic and/or Netfabb Free download archive.
 > additional modules.
 
 Netfabb was consumed by Autodesk and the software we loved, Netfabb Basic
-(and later Netfabb Free) is gone. No longer available to download in any version
-for any platform.
+(later called Netfabb Free) is gone.
+Currently, [trial version of Netfabb offers the features of the former
+Basic/Free editon after the trial expires]
+(https://www.netfabb.com/blog/netfabb-basic-now-just-netfabb),
+however it is only available for Windows. Older releases of Netfabb Basic/Free
+for all 3 major platforms are no longer available from the Netfabb website.
 
 Since the license terms of Netfabb Basic (see LICENSE) allows us to share it,
 we are sharing installers of Netfabb found on our hard drives.
